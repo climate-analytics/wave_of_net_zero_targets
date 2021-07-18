@@ -1,4 +1,4 @@
-# Code and data for reproducing the figures of "Wave of net zero greenhouse gas emission targets opens window on meeting the Paris Agreement" (Gidden et al., 2021)
+# Code and data for reproducing the figures of "Wave of net zero greenhouse gas emission targets opens window on meeting the Paris Agreement" (Hohne & Gidden et al., 2021)
 
 
 ## Code
