@@ -7,5 +7,3 @@ The code 'python global_emission_pathways.py' reproduces the  globale emission p
 ## Data
 All data required to replicate this analysis and run the script above are placed in the folder "data".
 
-## Materials and methods
-### Energy system investments
